@@ -1,0 +1,239 @@
+{
+  "personal": {
+    "full_name": "Nakul Sejwar",
+    "location": "India",
+    "email": "nakulsejwar02@gmail.com",
+    "phone": "+918303383499",
+    "experience_summary": "Approximately 2.8 years total experience based on the current self-reported summary; confirm exact dates before making a precise claim.",
+    "current_salary_inr_per_month": 40000,
+    "work_preference": [
+      "Remote",
+      "Full-time",
+      "Freelance / project-based"
+    ]
+  },
+  "professional_summary": "Computer Science graduate and developer focused on Python backend engineering, AI agents, LLM-powered applications, and full-stack web development.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "Babasaheb Bhimrao Ambedkar University",
+      "graduation_year": 2024
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "PHP"
+    ],
+    "backend": [
+      "Django",
+      "Django REST Framework",
+      "FastAPI",
+      "Flask",
+      "REST APIs"
+    ],
+    "frontend": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "jQuery"
+    ],
+    "ai_and_agents": [
+      "LangChain",
+      "LangGraph",
+      "LLM applications",
+      "AI agents",
+      "OpenRouter",
+      "prompt engineering"
+    ],
+    "databases_and_queues": [
+      "PostgreSQL",
+      "MySQL",
+      "SQLite",
+      "Redis",
+      "Celery"
+    ],
+    "devops_and_cloud": [
+      "Docker",
+      "Nginx",
+      "AWS ECS",
+      "EC2",
+      "RDS",
+      "CI/CD",
+      "Git",
+      "GitHub"
+    ],
+    "cms_and_ecommerce": [
+      "WordPress",
+      "Shopify",
+      "WooCommerce"
+    ],
+    "other": [
+      "Stripe integrations",
+      "Wise payout integrations",
+      "Zoho Flow",
+      "Deluge"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Sitekart",
+      "title": "Web Developer",
+      "start": "2024-06",
+      "end": "2025-03",
+      "details": [
+        "Built frontend features using React.",
+        "Developed basic Python applications.",
+        "Built and customized WordPress websites."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "title": "Freelance Developer",
+      "duration_summary": "Approximately 1 year and 2 months; confirm dates if needed.",
+      "details": [
+        "Website development and customization.",
+        "WordPress and Shopify project work."
+      ]
+    },
+    {
+      "company": "Heart Health India Foundation",
+      "title": "Volunteer Developer",
+      "details": [
+        "CRM data structuring, cleaning, validation, and deduplication.",
+        "Zoho CRM, Zoho Flow, Zoho Mail, custom functions, and Deluge automations.",
+        "Created a Webinar Registrations module and reminder workflows."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Zaplyn",
+      "category": "AI-native commerce platform",
+      "stack": [
+        "Django",
+        "Next.js",
+        "LangGraph",
+        "MySQL",
+        "AWS"
+      ],
+      "details": [
+        "AI-native commerce platform with LangGraph-based agent workflow.",
+        "Worked with backend business logic and dynamic database routing."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Jobbie",
+      "category": "AI-powered career platform",
+      "stack": [
+        "Next.js",
+        "Django",
+        "LLMs"
+      ],
+      "details": [
+        "Career platform concept covering resume building, ATS scanning, cover letters, interview preparation, and job tracking."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Lumora",
+      "category": "Adaptive learning platform",
+      "stack": [
+        "Django",
+        "SQLite",
+        "OpenRouter",
+        "LLMs"
+      ],
+      "details": [
+        "Adaptive learning experience with mastery analytics and weakest-skill targeting."
+      ],
+      "url": "https://lumoraapp.vercel.app/"
+    },
+    {
+      "name": "RoadMate",
+      "category": "Mobile navigation application",
+      "stack": [
+        "React Native",
+        "Expo",
+        "Mapbox",
+        "SQLite"
+      ],
+      "details": [
+        "Mobile app project involving points of interest and trip mode."
+      ],
+      "url": ""
+    },
+    {
+      "name": "WordPress and Shopify client work",
+      "category": "Web development",
+      "stack": [
+        "WordPress",
+        "Shopify",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "details": [
+        "Built and customized client websites, responsive layouts, theme-based pages, and e-commerce presentation."
+      ],
+      "url": "https://nakulsejwar.github.io/portfolio/"
+    }
+  ],
+  "portfolio_links": {
+    "main_portfolio": "https://nakulsejwar.github.io/portfolio/",
+    "shopify_ramsha_home": "https://ramshahome.ae/",
+    "shopify_airport_vape": "https://airport-vape.com/",
+    "lumora": "https://lumoraapp.vercel.app/",
+    "github": "https://github.com/nakulsejwar/",
+    "linkedin": "https://www.linkedin.com/in/nakulsejwar/"
+  },
+  "job_preferences": {
+    "target_roles": [
+      "AI Engineer",
+      "Python Developer",
+      "Backend Developer",
+      "Django / FastAPI Developer",
+      "Full-Stack Developer",
+      "WordPress Developer",
+      "Shopify Developer"
+    ],
+    "preferred_work_mode": [
+      "Remote"
+    ],
+    "preferred_employment": [
+      "Full-time",
+      "Freelance",
+      "Contract"
+    ],
+    "minimum_monthly_salary_inr": 40000,
+    "exclude_internships": true,
+    "salary_negotiation_policy": "For roles below ₹40,000/month, flag the mismatch and ask the user whether to proceed. For a role advertising ₹26,000–₹38,000/month, state that it is below the stated minimum expectation. Do not claim the candidate accepts the range or is flexible unless the user explicitly says so."
+  },
+  "email_preferences": {
+    "tone": "Natural, confident, concise, human-sounding",
+    "length": "Short to medium",
+    "avoid": [
+      "Overly generic introductions",
+      "Exaggerated claims",
+      "Invented metrics",
+      "Unverified project URLs",
+      "Mentioning salary unless relevant"
+    ],
+    "signature": "Best regards,\\nNakul Sejwar",
+    "rules": [
+      "Use only facts from this JSON unless the user adds information.",
+      "Select only the most relevant skills and projects.",
+      "Do not invent an email address.",
+      "The sender Gmail account comes from .env; a blank candidate contact email does not block sending.",
+      "Do not claim a project is live unless its URL is present.",
+      "For WordPress/Shopify, prioritize relevant portfolio links.",
+      "For AI/backend, prioritize Zaplyn, Lumora, LangGraph, Django, and FastAPI where relevant.",
+      "If the role salary is below minimum_monthly_salary_inr, flag it and ask the user before stating acceptance or salary flexibility."
+    ]
+  }
+}
